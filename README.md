@@ -1,2 +1,2 @@
-# Testando commits
-Alteração na cor do background do quadro direito
+# Testing commits
+Changing the background color of the right box
